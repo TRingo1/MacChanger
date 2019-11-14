@@ -1,1 +1,2 @@
-# MacChangertool used to change your wireless WLAN0 mac address
+# MacChanger
+script used to change your wireless WLAN0 mac address
