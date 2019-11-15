@@ -2,8 +2,8 @@
 
 import subprocess
 
-interface = input("Interface you want to update mac address, ie: eth0, wlan0 > ")
-newmac = input("New MacAddress x:x:x:y:y:y > ")
+interface = raw_input("Interface you want to update mac address, ie: eth0, wlan0 > ")
+newmac = raw_input("New MacAddress x:x:x:y:y:y > ")
 print("[+] Changing Mac address for " + interface + " to " + newmac)
 
 
